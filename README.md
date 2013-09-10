@@ -8,11 +8,10 @@ console.log($({a: 1, b: 3, c: 2}).invert());
 Result will be:
 ```js
 [object Object] {
-  a: 1,
-  b: 3,
-  c: 2
+  1: "a",
+  2: "c",
+  3: "b"
 }
-
 ```
 For:
 ```js
