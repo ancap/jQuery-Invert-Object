@@ -1,7 +1,7 @@
 jQuery Invert Object
 ====================
 
-See live example <a class="jsbin-embed" href="http://jsbin.com/eCIfiDa/17/embed?html,js,console">jsbin.com</a>
+See live example <a class="jsbin-embed" href="http://jsbin.com/eCIfiDa/19/embed?html,js,console">jsbin.com</a>
 ```js
 console.log($({a: 1, b: 3, c: 2}).invert());
 ```
