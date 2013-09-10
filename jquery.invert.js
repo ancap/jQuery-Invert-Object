@@ -8,7 +8,7 @@ $.fn.invert = function(obj) {
       a[this[0][key]] = key;
   }
   
-  if (obj) 
+  if (!obj) 
     return this[0]; 
   
   this[0] = a; 
