@@ -1,0 +1,2 @@
+jQuery-Invert-Object
+====================
